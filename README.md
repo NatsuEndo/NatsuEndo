@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NatsuEndo
 - 👀 I’m interested in Programming (frontend and backend)
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 📫 How to reach me natsu.endo@gmail.com
+- 📫 How to reach me natsu.endo@hotmail.com
 
 <!---
 NatsuEndo/NatsuEndo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
