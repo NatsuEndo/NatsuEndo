@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NatsuEndo
-- 👀 I’m interested in Programming (frontend and backend)
-- 🌱 I’m currently learning VueJs, Java and Postgresql
+- 👀 I’m interested in fullstack programming
+- 🌱 I’m currently studying computer science
 - 📫 How to reach me natsu.endo@hotmail.com
 
 <!---
