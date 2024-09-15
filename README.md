@@ -13,7 +13,7 @@ Experienced coder with a 4-year journey from automating systems to discovering a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NatsuEndo&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NatsuEndo&icon=5&color=6)](https://visitcount.itsvg.in)
